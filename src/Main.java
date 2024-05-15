@@ -7,5 +7,4 @@ public class Main {
         Console c = new Console();
         c.Start();
     }
-    //Todoo: нужно добавить ограничения на дурака, в главном меню и затестить на баги!
 }
